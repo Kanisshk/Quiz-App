@@ -1,3 +1,18 @@
+# Preview of Quiz App
+![image](https://github.com/Kanisshk/Quiz-App/assets/97302412/ae21051a-4a4d-49a6-80a8-8de35aa2a1ac)
+![image](https://github.com/Kanisshk/Quiz-App/assets/97302412/82f37888-0a2e-4e80-82ad-5f458eae6f12)
+![image](https://github.com/Kanisshk/Quiz-App/assets/97302412/d5d945e2-38ad-4bb8-b3af-6390ebd0603f)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
